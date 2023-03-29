@@ -1,0 +1,2 @@
+# rika-resolusi
+tes aja
