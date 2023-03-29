@@ -2,6 +2,10 @@ RENCANA KONTEN :
 - Javascript
   * ES6 zero to hero
   * Laravel
+  * Framework Javascript
+  * Vue
 - Interview
 - Vlog
 - Tambah Fitur 2
+- Dasar Struktur Data
+- Fitur 1 tambah
