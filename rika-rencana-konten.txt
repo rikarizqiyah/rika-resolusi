@@ -1,6 +1,7 @@
 RENCANA KONTEN :
 - Javascript
-  * ES6
-  * Framework Javascript
+  * ES6 zero to hero
+  * Laravel
 - Interview
 - Vlog
+- Tambah Fitur 2
