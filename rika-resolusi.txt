@@ -2,3 +2,6 @@ Rika resolusi :
 - apply job
 - belajar swiftui
 - belajar .NET7
+- coba 1
+- coba 2
+- coba 3
