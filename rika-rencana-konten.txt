@@ -2,5 +2,8 @@ RENCANA KONTEN :
 - Javascript
   * ES6
   * Framework Javascript
+  * Vue
+- Dasar Struktur Data
 - Interview
 - Vlog
+- Fitur 1 tambah
